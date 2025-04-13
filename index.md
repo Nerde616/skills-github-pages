@@ -1,4 +1,4 @@
 ---
-title: Nerde's Coding Sanctuary
+Nerde's Coding Sanctuary
 ---
 
